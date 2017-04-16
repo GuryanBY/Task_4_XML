@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tc:treasures xmlns:tc="http://www.epam.org/NewXMLSchema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.epam.org/NewXMLSchema treasures.xsd">
+
+	<ancient_book id="241">
+		<title>Lords of Earth</title>
+		<age>245</age>
+		<type>Very very old</type>
+		<pages>215</pages>
+		<lanquage>en-GB</lanquage>
+		<price>12</price>
+	</ancient_book>
+
+	<ancient_scroll id="251">
+		<title>Golden fix</title>
+		<age>23</age>
+		<content>The basic rules to get the money and gold</content>
+		<school_of_magic>Fire magic school</school_of_magic>
+		<price>12</price>
+	</ancient_scroll>
+
+
+
+</tc:treasures>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treasures>
+	<ancient_book id="241">
+		<title>Lords of Earth</title>
+		<age>245</age>
+		<type>Very very old</type>
+		<pages>215</pages>
+		<lanquage>en-GB</lanquage>
+		<price>12</price>
+	</ancient_book>
+
+	<ancient_scroll id="251">
+		<title>Golden fix</title>
+		<age>23</age>
+		<content>The basic rules to get the money and gold</content>
+		<school_of_magic>Fire magic school</school_of_magic>
+		<price>12</price>
+	</ancient_scroll>
+
+	<ancient_book id="242">
+		<title>King of Road</title>
+		<age>200</age>
+		<type>Very old</type>
+		<pages>120</pages>
+		<lanquage>en-GB</lanquage>
+		<price>32</price>
+	</ancient_book>
+
+
+	<ancient_scroll id="251">
+		<title>Hey Story</title>
+		<age>36</age>
+		<content>Focus on story</content>
+		<school_of_magic>Sky magic school</school_of_magic>
+		<price>23</price>
+	</ancient_scroll>
+
+	<ancient_book id="245">
+		<title>Book of the future</title>
+		<age>265</age>
+		<type>Old</type>
+		<pages>388</pages>
+		<lanquage>en-US</lanquage>
+		<price>18.55</price>
+	</ancient_book>
+
+</treasures>
